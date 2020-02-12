@@ -39,4 +39,3 @@ yarn startall
 ## Open Composer in a browser
 To use Composer open a browser and navigate to the address after the message `Compiled successfully`, as seen below where the address is http://localhost:3000.
 
-![browser address](./media/setup-yarn/address.png)
